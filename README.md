@@ -1,3 +1,3 @@
 # CobaltStrike-Script
 CobaltStrike反制脚本
-该脚本文件为反制red team方的Cs服务器，从而达到让redteam方Cs控制端瘫痪
+该脚本文件为反制红队的Cs服务器脚本，可批量DDOS对方服务端，从而达到让r攻击方Cs控制端瘫痪
